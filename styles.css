@@ -28,7 +28,7 @@ label {
     margin: 0 2px 0 0;
     min-height: 18px;
 }
-input, select {
+input, select, textarea {
     width: 100%;
     display: block;
 
@@ -42,6 +42,9 @@ input, select {
     margin: 4px 4px 6px 0;
     outline: 0;
     min-height: 30px;
+}
+textarea {
+    height: 200px;
 }
 .popup input {
     width: 100%;
