@@ -52,9 +52,9 @@ textarea {
 }
 button {
     outline: 0;
-    background: #24a828;
-    background: -webkit-linear-gradient(top, #24a828 0%, #1b7e1e 100%);
-    background: linear-gradient(to bottom, #24a828 0%, #1b7e1e 100%);
+    background: #555;
+    background: -webkit-linear-gradient(top, #555 0%, #444 100%);
+    background: linear-gradient(to bottom, #555 0%, #444 100%);
     color: #fff;
     border: none;
     cursor: pointer;
@@ -76,9 +76,9 @@ button {
 }
 button:hover,
 button:active {
-    background: #1f9323;
-    background: -webkit-linear-gradient(top, #1f9323 0%, #166919 100%);
-    background: linear-gradient(to bottom, #1f9323 0%, #166919 100%);
+    background: #666;
+    background: -webkit-linear-gradient(top, #666 0%, #555 100%);
+    background: linear-gradient(to bottom, #666 0%, #555 100%);
 }
 
 ul {
